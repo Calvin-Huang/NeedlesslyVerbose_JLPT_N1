@@ -155,44 +155,44 @@ Primary screens:
 - TypeScript
 - ESLint
 - Tailwind CSS
-- pnpm
+- npm
 
 ## Setup
 
 Install dependencies:
 
 ```bash
-pnpm install
+npm install
 ```
 
 Start the development server:
 
 ```bash
-pnpm dev
+npm run dev
 ```
 
 Run lint:
 
 ```bash
-pnpm lint
+npm run lint
 ```
 
 Run typecheck:
 
 ```bash
-pnpm typecheck
+npm run typecheck
 ```
 
 Build for production:
 
 ```bash
-pnpm build
+npm run build
 ```
 
 Preview the production build:
 
 ```bash
-pnpm preview
+npm run preview
 ```
 
 ## Planning
